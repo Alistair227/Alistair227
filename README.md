@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Software Developer
 ------------------------------------
 
-I'm fascinated by anything that goes into building an application, my favorite part is the backend side but I still want to have acomplete understanding of how everything of an application work.
+I'm fascinated by anything that goes into building an application, my favorite part is the backend side but I still want to have a complete understanding of how everything of an application works.
 
 * 🌍  I'm based in Torino
 * ✉️  You can contact me at [walter.guidolin@gmail.com](mailto:walter.guidolin@gmail.com)
